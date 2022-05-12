@@ -1,0 +1,12 @@
+package com.chainsys.classmethods;
+/**
+ * 
+ * @author aksh3106
+ *
+ */
+
+public class Car {
+	private final String regno;
+	
+
+}

@@ -1,0 +1,45 @@
+package com.chainsys.classmethods;
+/**
+ * 
+ * @author aksh3106
+ *
+ */
+
+public class Car {
+	private final String regNo;
+	private int yearOfPurchase;
+	private String color;
+	private String fuel;
+	public Car(String string) {
+		this.regNo = "";
+		// TODO Auto-generated constructor stub
+	}
+	public void setColor(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void setFuel(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void setYearOfPurchase(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+	public char[] getColor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public char[] getRegNo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public char[] getFuel() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public char[] getYearOfPurchase() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

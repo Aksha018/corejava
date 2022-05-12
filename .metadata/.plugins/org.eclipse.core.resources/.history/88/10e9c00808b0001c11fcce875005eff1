@@ -1,0 +1,24 @@
+package com.chainsys.FirstTest;
+
+public class EvenNumbers {
+
+	public static void main(String[] args) {
+	 EvenNumber.evenNumber();
+	}
+	public static void evenNumber()
+	{
+		int i,rem =0,temp; 
+		int number=1546903;
+		temp=number;
+		for(i=0;i<temp;i++)
+		{
+			rem =temp%10;
+		}
+		if(rem%2==0)
+		{
+			System.out.println(rem);
+		}
+		temp=temp/10;
+	}
+
+}

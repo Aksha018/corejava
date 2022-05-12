@@ -1,0 +1,23 @@
+package reflection;
+
+public class ForNameDemo {
+	public static void main (String args[])
+	{
+		//hero.Name = "VJS";
+		//hero.city = "Chennai";
+		String className="reflection.Actor";
+		try {
+			//Actor hero = new Actor();
+			Class firstClass=Class.forName(className);
+			Object firstObject = firstClass.newInstance();
+			Actor hero = (Actor)firstObject;
+			hero.Name = "VJS";
+			hero.city = "chennai";
+			hero.printName();
+		} catch(ClassNotFoundException)
+		e.printStackTrace();
+	}
+
+		
+	}
+	

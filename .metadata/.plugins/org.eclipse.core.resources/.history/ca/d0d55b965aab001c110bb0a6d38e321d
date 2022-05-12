@@ -1,0 +1,22 @@
+package com.chainsys.variables;
+
+public class demo {
+
+	public static int DataA;
+	public int DataB = 0;
+	public final static int Data=300;
+	
+	public demo(int dataB)
+	{
+		this.DataB=dataB;
+	}
+	public static void sayHello()
+	{
+	System.out.println("Hello Developer !!!");	
+	}
+	public void greetuser()
+	{
+		System.out.println("Greeting USER!!!");
+	}
+
+}

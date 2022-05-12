@@ -1,0 +1,13 @@
+package com.chainsys.FirstTest;
+
+public class Alphabets {
+         public static void main(String[] args) {
+         String str = "chAinSYs";
+        boolean result = str. matches("[c-h-A-i_n-S-Y-s]+");
+      System.out.println("Input characters :"+str);
+      System.out.println( "Input name contains only alphabets : "+result);
+      }
+    }
+        
+
+

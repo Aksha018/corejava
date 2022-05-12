@@ -1,0 +1,11 @@
+package com.chainsys.FirstTest;
+
+public class BankDetails {
+public static void Customer()
+{
+	public String Name;
+	
+}
+	
+
+}

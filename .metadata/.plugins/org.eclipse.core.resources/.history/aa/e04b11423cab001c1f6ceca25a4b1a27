@@ -1,0 +1,19 @@
+package com.chainsys.introduction;
+
+public class sixth {
+
+	public static void main(String[] args) {
+	}
+		
+      public static void printMaxtrix() {
+    	  int countA =0;
+    	  for(countA =1;countA <=5;countA++) 
+    	  {
+    		  for(int countB =11;countB <=20;countB++)
+    		  {
+    			 System.out.print(countB +" ");
+    			  
+    		  }
+    				  
+    	  }
+      }

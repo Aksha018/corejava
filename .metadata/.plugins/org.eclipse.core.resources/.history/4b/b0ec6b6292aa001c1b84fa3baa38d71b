@@ -1,0 +1,12 @@
+package com.chainsys.introduction;
+
+public class First {
+
+	public static void main(String[] args) {
+	int a='A';
+	int b='R';
+	System.out.println(a);
+	System.out.println(b);
+	}
+}
+           

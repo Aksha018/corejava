@@ -1,0 +1,29 @@
+package com.chainsys.FirstTest;
+
+public class Triangle {
+	public static void main(String[] args)
+	{
+		int rows =9,k = 0,count = 0,countA = 0;
+		for(int i=1; i<= rows;i++)
+		{
+		 System.out.println(".");
+		 ++count;
+		}
+		while(k!=2 *rows-1)
+		{
+		if (count<= rows -1)
+		{
+		System.out.println((rows+k)+" ");
+		++count;
+		}
+		else {
+			++countA;
+			System.out.println((rows+k-2*countA)+" ");
+		}
+		++k;
+	  }
+		countA = count = k = 0;
+		System.out.println();
+		
+		}
+	}
