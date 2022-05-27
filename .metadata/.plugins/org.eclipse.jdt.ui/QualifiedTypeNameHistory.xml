@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="com.chainsys.polymorphism.MethodOverriding.Parent"/>
     <fullyQualifiedTypeName name="com.chainsys.polymorphism.MethodOverriding.subclass1"/>
     <fullyQualifiedTypeName name="com.chainsys.polymorphism.MethodOverriding.subclass2"/>
     <fullyQualifiedTypeName name="com.chainsys.collections.EmpComparable"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.io.IOExceptions"/>
-    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.nio.file.Files"/>
     <fullyQualifiedTypeName name="java.nio.file.StandardCopyOption"/>
@@ -33,4 +30,27 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Modifier"/>
     <fullyQualifiedTypeName name="java.text.Format.Field"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.chainsys.doctorproject.pojo.Doctor"/>
+    <fullyQualifiedTypeName name="com.chainsys.doctorproject.dao.DoctorDao"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.pojo.Doctor"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.dao.DoctorDao"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.ui.DoctorUI"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.ui.DoctorUi"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.ui.AppointmentsUI"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.ServletConfig"/>
+    <fullyQualifiedTypeName name="java.util.Enumeration"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.pojo.Employee"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.dao.EmployeeDao"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.commonutil.Validator"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.commonutil.InvalidInputDataException"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
